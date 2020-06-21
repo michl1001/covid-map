@@ -1,0 +1,17 @@
+.info{
+    padding: 1% 5% 1% 5%;
+    font-size:2vw;
+    float:none;
+}
+
+.header{
+    font-size: 3vw;
+    font-weight: bold;
+    color:firebrick;
+    margin: 1vmin;
+}
+
+.text{
+    margin: 1vw;
+    padding-left: 4%;
+}
