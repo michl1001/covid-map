@@ -1,5 +1,8 @@
 .App {
   font-family: "DM Sans", sans-serif;
+
+  overflow-y: scroll;
+  
 }
 
 .App-logo {

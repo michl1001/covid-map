@@ -7,12 +7,9 @@ class NavBar extends React.Component {
     return (
       <div className="navBar">
         <div className="logo">
-            Title
+            Covid-Tracker
         </div>
 
-        <div className="view">
-            About
-        </div>
         
         <div className="divider">
           <span className="bar" />

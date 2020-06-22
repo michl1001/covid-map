@@ -1,6 +1,6 @@
 .map{
     align-items: center;
-    height: 60vh;
+    height: 80vh;
     width: 80%;
     float:none;
     margin: 2% 10%;
@@ -8,7 +8,7 @@
 }
 .map>div{
     position: absolute;
-    width: 100%;
+    width: 80%;
     height: 100%;
     display: inline-block;
 }
