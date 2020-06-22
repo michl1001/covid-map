@@ -1,5 +1,6 @@
 import React from 'react';
 import { Map, GoogleApiWrapper } from 'google-maps-react';
+import googleAPI from '../config.jsx';
 
 const mapStyles = {
   height: "60vh",
@@ -25,5 +26,5 @@ export class MapContainer extends React.Component {
 }
 
 export default GoogleApiWrapper({
-  apiKey: 'YOUR_GOOGLE_API_KEY_GOES_HERE'
+  apiKey: googleAPI
 })(MapContainer);

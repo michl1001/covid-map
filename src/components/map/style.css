@@ -4,6 +4,7 @@
     width: 80%;
     float:none;
     margin: 2% 10%;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
 }
 .map>div{
     position: absolute;

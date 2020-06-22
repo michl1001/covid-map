@@ -5,13 +5,13 @@
 }
 
 .header{
-    font-size: 3vw;
+    font-size: 2.5vw;
     font-weight: bold;
     color:firebrick;
     margin: 1vmin;
 }
 
 .text{
-    margin: 1vw;
+    margin: .7vw;
     padding-left: 4%;
 }
