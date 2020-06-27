@@ -1,3 +1,8 @@
+## `NOTE`
+This project utilizes Node, the Google Maps API, and Google Firebase.
+There must be a config.jsx file (you can use and fill out the template given) that fills out the correct file locations and API keys
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
