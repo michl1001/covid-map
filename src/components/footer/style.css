@@ -1,0 +1,17 @@
+.footer{
+    background-color: lightgrey;
+    width: 100%;
+    padding: 1% 5% 1% 5%;
+    font-size: 1.5vw;
+}
+.contactInfo{
+    width:30%;
+    display:inline-block;
+    font-weight: bold;
+    margin-left: 5%;
+}
+.phoneForm{
+    width:55%;
+    display:inline-block;
+    margin-left: 10%;
+}

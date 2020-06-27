@@ -1,6 +1,6 @@
 .info{
     padding: 1% 5% 1% 5%;
-    font-size:2vw;
+    font-size:1.5vw;
     float:none;
 }
 
@@ -12,6 +12,6 @@
 }
 
 .text{
-    margin: .7vw;
+    margin-left: .7vw;
     padding-left: 4%;
 }

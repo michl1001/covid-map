@@ -1,14 +1,14 @@
 .map{
     align-items: center;
     height: 80vh;
-    width: 80%;
+    width: 90%;
     float:none;
-    margin: 2% 10%;
+    margin: 2% 5%;
     box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
 }
 .map>div{
     position: absolute;
-    width: 80%;
+    width: 90%;
     height: 100%;
     display: inline-block;
 }
